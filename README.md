@@ -6,3 +6,8 @@
 
 `https://www.totaltypescript.com/tutorials/zod/zod-section/number`
 `https://www.classcentral.com/classroom/youtube-learn-zod-in-30-minutes-120663`
+
+## Next Cloudinary
+
+(Link)[https://next.cloudinary.dev/installation]
+(customize widget)[https://demo.cloudinary.com/uw/#/]
